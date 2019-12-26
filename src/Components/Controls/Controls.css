@@ -1,0 +1,17 @@
+.buttons {
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.directionButton {
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.controlButton {
+    border-radius: 10%;
+    background-color: rgb(52,165,218);
+    border: none;
+}

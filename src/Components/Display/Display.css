@@ -1,0 +1,30 @@
+.displayContainer {
+    background-color: white;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 75px;
+}
+
+.containerBox {
+    width: 90%;
+}
+
+.counter {
+    width: 100%;
+    text-align: right;
+    font-weight: bold;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.list {
+    list-style-type: decimal;
+    margin-left: 25px;
+}
+
